@@ -1,6 +1,16 @@
 # What Am I Reading Lately
 
-（Using semanticscholar，Because its [API](https://api.semanticscholar.org/api-docs/graph#operation/get_graph_get_paper)）
+（Using semanticscholar，Because its clean [API](https://api.semanticscholar.org/api-docs/graph#operation/get_graph_get_paper)）
+
+
+### What are we reading on next week?
+
+
+| Read? | Year | Title                                                         | Date                 | citation |
+| ------ | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
+|       | 2022 | [Competence-based Multimodal Curriculum Learning for Medical Report Generation](https://aclanthology.org/2021.acl-long.234.pdf) | Medical report generation                   | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fabd1c342495432171beb7ca8fd9551ef13cbd0ff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competence-based-Multimodal-Curriculum-Learning-for-Liu-Ge/a816733a342b68b75957cdda927424ff9cb04d42) |
+
+
 
 ### CV
 
@@ -13,7 +23,7 @@
 
 | Read? | Year | Title                                                         | what do i think                 | citation |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
-| ✅ | 2020 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) | Transformer to CV                   |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b15fa1b8d413fbe14ef7a97f651f47f5aff3903%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/An-Image-is-Worth-16x16-Words%3A-Transformers-for-at-Dosovitskiy-Beyer/7b15fa1b8d413fbe14ef7a97f651f47f5aff3903)  |
+| ✅ | 2020 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) | Transformer into CV world                  |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b15fa1b8d413fbe14ef7a97f651f47f5aff3903%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/An-Image-is-Worth-16x16-Words%3A-Transformers-for-at-Dosovitskiy-Beyer/7b15fa1b8d413fbe14ef7a97f651f47f5aff3903)  |
 | ✅ | 2021 |  [CLIP](https://openai.com/blog/clip/) | unsupervised contrastive learning with huge amount data building a richer semantics             |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-Transferable-Visual-Models-From-Natural-Radford-Kim/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4)  |
 
 ### Generation
