@@ -6,12 +6,18 @@ How to use semantics-scholar's API:
 
 (https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F + last chunk of slash in the url + %3Ffields%3DcitationCount) plus sign not included with no space
 
+### Cool blog talk about new techs
+
+[What is Diffusion](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) //
+[Diffusion Demo with code](https://huggingface.co/blog/annotated-diffusion)
+
+
 ### What are we reading on next?
 
 
 | Proposed by? | Year | Title                                                         | Date                 | citation |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
-| Shan    | 2022 | [Competence-based Multimodal Curriculum Learning for Medical Report Generation](https://aclanthology.org/2021.acl-long.234.pdf) | Sept,06/22 |                    | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa816733a342b68b75957cdda927424ff9cb04d42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competence-based-Multimodal-Curriculum-Learning-for-Liu-Ge/a816733a342b68b75957cdda927424ff9cb04d42) |
+| Shan    | 2022 | [Competence-based Multimodal Curriculum Learning for Medical Report Generation](https://aclanthology.org/2021.acl-long.234.pdf) | Sept,06/22 | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa816733a342b68b75957cdda927424ff9cb04d42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competence-based-Multimodal-Curriculum-Learning-for-Liu-Ge/a816733a342b68b75957cdda927424ff9cb04d42) |
 
 
 
