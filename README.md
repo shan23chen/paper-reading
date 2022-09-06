@@ -3,12 +3,12 @@
 （Using semanticscholar，Because its clean [API](https://api.semanticscholar.org/api-docs/graph#operation/get_graph_get_paper)）
 
 
-### What are we reading on next week?
+### What are we reading on next?
 
 
 | Read? | Year | Title                                                         | Date                 | citation |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
-|       | 2022 | [Competence-based Multimodal Curriculum Learning for Medical Report Generation](https://aclanthology.org/2021.acl-long.234.pdf) | Medical report generation                   | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fabd1c342495432171beb7ca8fd9551ef13cbd0ff%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competence-based-Multimodal-Curriculum-Learning-for-Liu-Ge/a816733a342b68b75957cdda927424ff9cb04d42) |
+| Shan    | 2022 | [Competence-based Multimodal Curriculum Learning for Medical Report Generation](https://aclanthology.org/2021.acl-long.234.pdf) | Medical report generation                   | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa816733a342b68b75957cdda927424ff9cb04d42%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Competence-based-Multimodal-Curriculum-Learning-for-Liu-Ge/a816733a342b68b75957cdda927424ff9cb04d42) |
 
 
 
