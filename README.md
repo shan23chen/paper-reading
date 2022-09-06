@@ -1,7 +1,8 @@
 # What Am I Reading Lately
 
 （Using semanticscholar，Because its clean [API](https://api.semanticscholar.org/api-docs/graph#operation/get_graph_get_paper)）
-
+(https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F
+%3Ffields%3DcitationCount)
 
 ### What are we reading on next?
 
