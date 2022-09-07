@@ -9,8 +9,9 @@ How to use semantics-scholar's API:
 ### Cool blog talk about new techs
 
 [What is Diffusion](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/) //
-[Diffusion Demo with code](https://huggingface.co/blog/annotated-diffusion)
-
+[Diffusion Demo with code](https://huggingface.co/blog/annotated-diffusion) //
+[prompting intro](https://thegradient.pub/prompting/) //
+[contrastive learning and multi-modal](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
 
 ### What are we reading on next?
 
