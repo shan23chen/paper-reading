@@ -45,8 +45,7 @@ How to use semantics-scholar's API:
 | Read? | Year | Title                                                         | what do i think                 | citation |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
 | ✅ | 2017 | [Transformer](https://arxiv.org/abs/1706.03762) | Best for NLP after (MLP、CNN、RNN)                  |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F204e3073870fae3d05bcbc2f6a8e263d9b72e776%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Attention-is-All-you-Need-Vaswani-Shazeer/204e3073870fae3d05bcbc2f6a8e263d9b72e776)  |
-| ✅ | 2022 | [Do Prompt-Based Models Really Understand
-the Meaning of Their Prompts?](https://aclanthology.org/2022.naacl-main.167.pdf) | prompt semantics not as how we think                  |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9ba50f992ccd92f428503ea6246157260a26cd77%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Do-Prompt-Based-Models-Really-Understand-the-of-Webson-Pavlick/9ba50f992ccd92f428503ea6246157260a26cd77) |
+| ✅ | 2022 | [Do Prompt-Based Models Really Understand the Meaning of Their Prompts?](https://aclanthology.org/2022.naacl-main.167.pdf) | prompt semantics not as how we think |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9ba50f992ccd92f428503ea6246157260a26cd77%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Do-Prompt-Based-Models-Really-Understand-the-of-Webson-Pavlick/9ba50f992ccd92f428503ea6246157260a26cd77) |
 
 
 
