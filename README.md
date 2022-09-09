@@ -1,14 +1,15 @@
 # How do I go through CS paper:
 
 <p>CS/informatics papers usually hold <strong>six</strong> main components:</p>
+>
 ><ol>
-<li>title</li>
-<li>abstract</li>
-<li>introduction</li>
-<li>method</li>
-<li>experiments</li>
-<li>conclusion</li>
-></ol>
+><li>title</li>
+><li>abstract</li>
+><li>introduction</li>
+><li>method</li>
+><li>experiments</li>
+><li>conclusion</li>
+>></ol>
 
 <p>And I will spend time to run through the paper three times:</p>
 
