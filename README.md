@@ -33,6 +33,7 @@ How to use semantics-scholar's API:
 [Diffusion Demo with code](https://huggingface.co/blog/annotated-diffusion) //
 [prompting intro](https://thegradient.pub/prompting/) //
 [contrastive learning and multi-modal](https://nips.cc/media/neurips-2021/Slides/21895.pdf)
+[Method call](https://clear.colorado.edu/TemporalWiki/index.php?title=Paper_Queue)
 
 ### What are we reading on next?
 
