@@ -1,13 +1,14 @@
 # How do you go through CS paper:
 
-CS/informatics papers usually hold six main components:
-1.title
-2.abstract
-3.introduction
-4.method
-5.experiments
-6.conclusion
-
+<p>CS/informatics papers usually hold <strong>six</strong> main components:</p>
+<ol>
+title
+abstract
+introduction
+method
+experiments
+conclusion
+</ol>
 
 # What Am I Reading Lately
 
