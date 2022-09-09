@@ -12,11 +12,11 @@
 
 <p>And I will spend time to run through the paper three times:</p>
 
-First round: Run through the title, abstract, conclusion. Take a look at important figures and tables in the Methods and Experiments section. In this way, you can spend more than ten minutes to understand whether the paper is suitable for your research direction. 
+> First round: Run through the title, abstract, conclusion. Take a look at important figures and tables in the Methods and Experiments section. In this way, you can spend more than ten minutes to understand whether the paper is suitable for your research direction. 
 
-Second round: After confirming that the paper is worth reading, you can quickly go through the whole paper. You don’t need to know all the details. You need to understand important figures and tables, know what each part is doing, and circle the relevant literature. If you think the article is too difficult, you can read the cited literature. 
+> Second round: After confirming that the paper is worth reading, you can quickly go through the whole paper. You don’t need to know all the details. You need to understand important figures and tables, know what each part is doing, and circle the relevant literature. If you think the article is too difficult, you can read the cited literature. 
 
-The third round: what problem to ask, what method to use to solve this problem. How the experiment was done. Close the article and recall what each section is about.
+> The third round: what problem to ask, what method to use to solve this problem. How the experiment was done. Close the article and recall what each section is about.
 
 # How to edit this ReadMe
 
