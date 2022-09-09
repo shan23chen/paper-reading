@@ -25,7 +25,7 @@
 
 How to use semantics-scholar's API:
 
-(https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F + last chunk of slash in the url + %3Ffields%3DcitationCount) plus sign not included with no space
+(https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F + last chunk of slash in the url + %3Ffields%3DcitationCount) <strong>plus sign not included with no space</strong>
 
 ### Cool blog talk about new techs
 
