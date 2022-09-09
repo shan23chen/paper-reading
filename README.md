@@ -2,12 +2,12 @@
 
 <p>CS/informatics papers usually hold <strong>six</strong> main components:</p>
 <ol>
-title
-abstract
-introduction
-method
-experiments
-conclusion
+<li>title</li>
+<li>abstract</li>
+<li>introduction</li>
+<li>method</li>
+<li>experiments</li>
+<li>conclusion</li>
 </ol>
 
 # What Am I Reading Lately
