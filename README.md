@@ -1,3 +1,14 @@
+# How do you go through CS paper:
+
+CS/informatics papers usually hold six main components:
+1.title
+2.abstract
+3.introduction
+4.method
+5.experiments
+6.conclusion
+
+
 # What Am I Reading Lately
 
 （Using semantics-scholar，Because its clean [API](https://api.semanticscholar.org/api-docs/graph#operation/get_graph_get_paper)）
