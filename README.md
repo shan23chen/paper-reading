@@ -55,6 +55,11 @@ How to use semantics-scholar's API:
 
 | Read? | Year | Title                                                         | what do i think                 | citation |
 | ------ | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
+
+| ✅ | 2022 | [CheXzero](https://www.nature.com/articles/s41551-022-00936-9) | Limited refinement work of CLIP                   |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F76120de60a9e59c23a372457a056da3c220c64b6%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Expert-level-detection-of-pathologies-from-chest-Tiu-Talius/76120de60a9e59c23a372457a056da3c220c64b6)  |
+
+| ✅ | 2019 | [ConVirt](https://arxiv.org/pdf/2010.00747.pdf) | medical domain and inspired CLIP                   |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6dd9f99cecd38504b667d320eb2a6267a9fee35d%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Contrastive-Learning-of-Medical-Visual-from-Paired-Zhang-Jiang/6dd9f99cecd38504b667d320eb2a6267a9fee35d)  |
+
 | ✅ | 2020 | [ViT](https://arxiv.org/pdf/2010.11929.pdf) | Transformer into CV world                  |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7b15fa1b8d413fbe14ef7a97f651f47f5aff3903%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/An-Image-is-Worth-16x16-Words%3A-Transformers-for-at-Dosovitskiy-Beyer/7b15fa1b8d413fbe14ef7a97f651f47f5aff3903)  |
 | ✅ | 2021 |  [CLIP](https://openai.com/blog/clip/) | unsupervised contrastive learning with huge amount data building a richer semantics             |[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Learning-Transferable-Visual-Models-From-Natural-Radford-Kim/6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4)  |
 
